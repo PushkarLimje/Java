@@ -14,6 +14,7 @@ public class fizzBuzz_div_3_5 {
             System.out.println("Enter a number to check fizzbuzz (enter 0 to exit): ");
             int number = scanner.nextInt();
 
+
             if(number < 0) {
                 System.out.println("Please enter a non-negative number.");
                 continue; // Skip the rest of the loop if input is negative

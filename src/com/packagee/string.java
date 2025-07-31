@@ -17,6 +17,7 @@ public class string {
         System.out.println(str3.replace("World", "Java")); // Output: Hello Java!
 //      (trim , toLowerCase, UpperCase) trim removes wide spaces
 
+
 //        // String comparison
 //        if (str1.equals("Hello")) {
 //            System.out.println("str1 is equal to 'Hello'");

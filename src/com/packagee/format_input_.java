@@ -23,6 +23,7 @@ public class format_input_ {
         // using Scanner as an taking input from user
 
 
+
         System.out.println("Enter your name ,Age and salary: ");
 
         Scanner s = new Scanner(System.in);

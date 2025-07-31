@@ -13,6 +13,7 @@ public class LikeArray_and_Const {
         arr2[2] = 37;
         arr2[3] = 46;
 
+
         Arrays.sort(arr);
         Arrays.sort(arr2);
         System.out.println(Arrays.toString(arr));

@@ -6,6 +6,7 @@ public class LogicalOperators_if_switch {
     public static void main(String [] ars) {
 
 
+
         // Logical Operators in Java
 
         // && -> and , || -> or ! -> not operators

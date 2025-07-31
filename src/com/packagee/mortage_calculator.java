@@ -16,6 +16,8 @@ public class mortage_calculator {
             break; // Exit the loop if the input is 0
         }
 
+
+
         final int percent = 100; // Constant for percentage conversion
         final int monthsInYear = 12; // Constant for number of months in a year
 

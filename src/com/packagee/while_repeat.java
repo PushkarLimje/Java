@@ -13,6 +13,7 @@ public class while_repeat {
 //                System.out.println("You entered: " + input.toLowerCase());
 //            }
 
+
         while (true) {
             System.out.print("Enter a command (type 'exit' to quit): ");
             input = scanner.nextLine().toLowerCase();

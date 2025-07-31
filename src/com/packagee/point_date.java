@@ -17,3 +17,4 @@ public class point_date {
         System.out.println(point3);
         }
     }
+

@@ -10,6 +10,7 @@ public class question_1 {
         System.out.println(isValidNo(a));
     }
 
+
     public static boolean isValidNo(String word){
 
         if(word.length() < 3 || word.isBlank()){
